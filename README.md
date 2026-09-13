@@ -1,5 +1,5 @@
 # comunitopics
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
