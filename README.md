@@ -7,7 +7,7 @@
   
 <p>experiments in participation and belonging</p>
 
-<img src="https://freight.cargo.site/w/1500/q/75/i/N3016850876439050707630895330075/-1-website-image-take-2.jpg" alt="alternatetext"
+<img src="(https://freight.cargo.site/w/2000/q/75/i/N3016850876439050707630895330075/-1-website-image-take-2.jpg)" alt="alternatetext"
 
 
 
