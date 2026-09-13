@@ -7,4 +7,3 @@
   
 <p>experiments in participation and belonging</p>
 
-# blogpostweek1.html
