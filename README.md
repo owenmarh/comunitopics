@@ -7,6 +7,6 @@
   
 <p>experiments in participation and belonging</p>
 
-<p><a href="[url](https://owenmarh.github.io/comunitopics/blogpostweek1.html)">the poor image as chronological and non-linear form</a></p>
+<p><a href="(https://owenmarh.github.io/comunitopics/blogpostweek1.html)">the poor image as chronological and non-linear form</a></p>
 
 
